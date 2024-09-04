@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="bootstrap-5.2.3-dist/css/bootstrap.css">
 </head>
 <body>
-<h1>Pagina Para Diagnostico</h1>
+<h3>Pagina Para Diagnostico</h3>
 <p>
    Esta es una prueba diagnostico para saber si podemos utilizar html,css,js y git
 </p>
